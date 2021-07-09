@@ -1,0 +1,5 @@
+Biracora 08 07
+
+
+1.Investigue sobre Control CheckBox en Android Studio
+2. Investigue sobre los metodos de switch

@@ -1,0 +1,5 @@
+Bitacora 06 07
+
+1. Segui investigando como hacer que el progrmaa pudiera emular el dispositivo en mi computador.
+Finalmente no pude.
+2. Investigue como hacer correr la aplicacion en mi celular

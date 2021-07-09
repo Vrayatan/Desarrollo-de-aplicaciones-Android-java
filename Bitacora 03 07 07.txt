@@ -1,0 +1,5 @@
+Bitacora 07 07
+
+1. Investigué cómo hacer aparecer la app en mi celular
+2. Investigue por que mi codigo no estaba funcionando
+3. Investigue sobre los métodos de button
