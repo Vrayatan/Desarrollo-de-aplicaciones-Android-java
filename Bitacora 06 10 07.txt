@@ -1,0 +1,2 @@
+Bitacora 10 07
+1.Investigue sobre el metodo ArrayAdapter y sobr eel container spinner
